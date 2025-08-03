@@ -1,0 +1,62 @@
+﻿.body_table
+{
+    width: 1000px;
+    border: solid 5px White;
+}
+        
+.header_table
+{
+    width: 1000px;
+}
+        
+.header_row
+{
+    background-color: Black;
+    height: 100px;
+    font-family: Calibri;
+    font-size: 26px;
+    font-weight: 400;
+    color: White;
+}
+
+.body_row
+{
+    width: 1000px;
+    border: 1px solid #686868;
+}
+
+.site_map
+{
+    font-family: Calibri;
+    font-size: 15px;
+    font-weight: bold;
+    color: blue;
+}
+
+.content_attribute
+{
+    font-family: Calibri;
+    font-size: 14px;
+    font-weight: bold;
+    color: Black;
+}
+
+.section
+{
+    font-family: Calibri;
+    font-size: 14px;
+    font-weight: bold;
+    color: Blue;
+	text-decoration: underline;
+    vertical-align: top;
+}
+
+.footer_attribute
+{
+	background-color: Black;
+	
+    font-family: Calibri;
+    font-size: 10px;
+    font-style : italic;
+    color: LightGray;
+}
